@@ -4,4 +4,4 @@ Hi, I'm an automation software engineer with a background in sociology, anthropo
 
 Currently, I am learning React and working towards my AWS Cloud Practitioner certification.
 
-Feel free to check out my projects and connect with me on [LinkedIn]: https://www.linkedin.com/in/omri-maman/.
+Feel free to check out my projects and connect with me on [LinkedIn](https://www.linkedin.com/in/omri-maman/).
