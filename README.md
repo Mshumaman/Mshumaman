@@ -1,5 +1,7 @@
 ### Hi there 👋
 
-i'm a software Quality Assurance tester and automation student at Gal Matalon's automation.co.il. I can describe myself as fast learner, autodidact who don't worry about dealing with new challenges and assignments. I'm a team player that at the same time highly independent and motivated to learn as much as possible in order to develop my skills.
+Hi, I'm an automation software engineer with a background in sociology, anthropology, and philosophy. I am currently working with Playwright and TypeScript, and am always looking to learn new technologies and skills.
 
-In addition, I am a BA in Sociology Anthropology and Philosophy, a field which encourage the development of critical thinking, out-of-the-box thinking and creativity.
+Currently, I am learning React and working towards my AWS Cloud Practitioner certification.
+
+Feel free to check out my projects and connect with me on [LinkedIn]: https://www.linkedin.com/in/omri-maman/.
